@@ -57,7 +57,8 @@ This project involves designing and implementing a single-phase **half-bridge si
 
 ###  Sample Output:
 
-![PWM Output](outputs/pwm_output.png)
+<img width="881" height="483" alt="Screenshot 2025-07-27 231756" src="https://github.com/user-attachments/assets/d12d82bb-8915-4109-a559-26fa32cf63c3" />
+
 
 ---
 
